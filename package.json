@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Corellian-Spike/SabaccBot#readme",
   "dependencies": {
+    "@cspike/cspike": "^1.0.1",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0"
   }
